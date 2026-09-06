@@ -65,7 +65,7 @@ from telegram.ext import (
 # CONFIG
 # --------------------------------------------------------------------------
 
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "PUT_YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.environ.get("8447902594:AAHZc9TsV0u8Hr477j05vDBzplBS3-Knhi4")
 
 # Where command files are dropped for the EA to pick up.
 COMMANDS_DIR = Path("./commands")
